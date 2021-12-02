@@ -1,0 +1,16 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "typed.js": "^2.0.12"
+  },
+  "devDependencies": {},
+  "description": ""
+}
